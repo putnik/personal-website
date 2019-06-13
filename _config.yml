@@ -1,11 +1,11 @@
-layout: sidebar
-style: light
+theme: minimal-mistakes-jekyll
+layout: single
 
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 defaults:
   -
